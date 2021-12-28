@@ -41,7 +41,6 @@
   "dependencies": {
     "autosuggest-highlight": "^3.2.0",
     "chrome-launcher": "latest",
-    "esm": "latest",
     "express": "latest",
     "flexsearch": "^0.7.21",
     "fz-search": "^1.0.0",
@@ -56,6 +55,7 @@
   },
   "devDependencies": {
     "eslint": "^8.4.1",
+    "esm": "^3.2.25",
     "nexe": "^1.1.6",
     "nodemon": "latest",
     "npx": "^3.0.0",
