@@ -36,7 +36,7 @@ function cleanup() {
   cleaning = true;
   console.log('cleanup running');
   fs.writeFileSync(
-    path.resolve('.', 'recrawl-https-2.json'), 
+    path.resolve('.', 'recrawl-https-3.json'), 
     JSON.stringify(entries, null, 2)
   );
   console.log(`Wrote recrawlable urls`);
