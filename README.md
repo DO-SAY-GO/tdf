@@ -23,6 +23,8 @@ cloud, no re-fetching.
 | **Tree Grower** 🌱 | Captures web resources into `.tdf` archives while you browse. | $60 every two years, up to three activations. |
 | **Tree Player** 🌳 | Opens and replays `.tdf` archives from disk. | Free to download and use. |
 
+[Get Tree Grower](https://license.dosaygo.com/newdn-buy)
+
 ## Install
 
 macOS / Linux:
